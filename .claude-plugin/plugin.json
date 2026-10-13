@@ -1,5 +1,5 @@
 {
-  "name": "simplysim",
+  "name": "simplysim-esim",
   "displayName": "SimplySIM Travel eSIMs",
   "version": "1.0.0",
   "description": "Find and buy prepaid travel data eSIMs for 180+ countries from SimplySIM. Search plans, build a basket, apply promo codes and get a secure Stripe payment link.",

@@ -7,7 +7,7 @@
     },
     "plugins": [
         {
-            "name": "simplysim",
+            "name": "simplysim-esim",
             "source": "./",
             "description": "Find and buy prepaid travel data eSIMs for 180+ countries from SimplySIM."
         }

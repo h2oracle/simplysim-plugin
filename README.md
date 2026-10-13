@@ -26,7 +26,7 @@ Find and buy prepaid travel data eSIMs for 180+ countries from [SimplySIM](https
 
 ```
 claude plugin marketplace add simplysim/simplysim-plugin
-claude plugin install simplysim@simplysim-marketplace
+claude plugin install simplysim-esim@simplysim-marketplace
 ```
 
 Then ask: "Find me a Spain eSIM for a week and give me a payment link."
