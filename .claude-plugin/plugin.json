@@ -9,7 +9,7 @@
     "url": "https://simplysim.co.uk"
   },
   "homepage": "https://simplysim.co.uk",
-  "repository": "https://github.com/simplysim/simplysim-plugin",
+  "repository": "https://github.com/h2oracle/simplysim-plugin",
   "license": "MIT",
   "keywords": ["esim", "travel", "mobile data", "roaming", "international data", "shopping"],
   "icon": "./logo.png",

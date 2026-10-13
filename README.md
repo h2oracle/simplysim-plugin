@@ -25,7 +25,7 @@ Find and buy prepaid travel data eSIMs for 180+ countries from [SimplySIM](https
 **Claude Code**
 
 ```
-claude plugin marketplace add simplysim/simplysim-plugin
+claude plugin marketplace add h2oracle/simplysim-plugin
 claude plugin install simplysim-esim@simplysim-marketplace
 ```
 
