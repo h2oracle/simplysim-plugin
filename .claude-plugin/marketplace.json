@@ -1,0 +1,15 @@
+{
+    "name": "simplysim-marketplace",
+    "description": "Official SimplySIM plugins for buying travel data eSIMs.",
+    "owner": {
+        "name": "SIMPLYSIM SOLUTIONS LTD",
+        "email": "hello@simplysim.co.uk"
+    },
+    "plugins": [
+        {
+            "name": "simplysim",
+            "source": "./",
+            "description": "Find and buy prepaid travel data eSIMs for 180+ countries from SimplySIM."
+        }
+    ]
+}

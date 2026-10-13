@@ -1,0 +1,20 @@
+{
+  "name": "simplysim",
+  "displayName": "SimplySIM Travel eSIMs",
+  "version": "1.0.0",
+  "description": "Find and buy prepaid travel data eSIMs for 180+ countries from SimplySIM. Search plans, build a basket, apply promo codes and get a secure Stripe payment link.",
+  "author": {
+    "name": "SIMPLYSIM SOLUTIONS LTD",
+    "email": "hello@simplysim.co.uk",
+    "url": "https://simplysim.co.uk"
+  },
+  "homepage": "https://simplysim.co.uk",
+  "repository": "https://github.com/simplysim/simplysim-plugin",
+  "license": "MIT",
+  "keywords": ["esim", "travel", "mobile data", "roaming", "international data", "shopping"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://simplysim.co.uk/support/how-it-works",
+  "supportUrl": "https://simplysim.co.uk/support/contact-us",
+  "privacyPolicyUrl": "https://simplysim.co.uk/support/privacy-policy",
+  "termsOfServiceUrl": "https://simplysim.co.uk/support/terms-and-conditions"
+}
