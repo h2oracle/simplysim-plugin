@@ -38,7 +38,8 @@ Then ask: "Find me a Spain eSIM for a week and give me a payment link."
 - The plugin sends requests only to `https://simplysim.co.uk/mcp`.
 - To create an order it sends the plans you choose, any promo code you give, your trip purpose (leisure or business), the date you need the eSIM from and your phone model. These are stored on the order to provision and support your eSIM.
 - It does not collect your name, email or card details. You enter those only on Stripe's payment page; Stripe processes the payment.
-- Baskets are anonymous and expire after 24 hours without use. Requests are rate-limited per IP address.
+- Baskets are anonymous and expire after 24 hours without use. Requests are rate-limited per IP address, and the caller's IP address and user agent are stored with the basket for fraud prevention.
+- Paid orders are kept for accounting and tax records as described in the privacy policy.
 - Full details: [Privacy policy](https://simplysim.co.uk/support/privacy-policy) and [Terms](https://simplysim.co.uk/support/terms-and-conditions).
 
 ## Support
