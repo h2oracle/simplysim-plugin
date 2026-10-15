@@ -1,6 +1,6 @@
 # SimplySIM Travel eSIMs
 
-Find and buy prepaid travel data eSIMs for 180+ countries from [SimplySIM](https://simplysim.co.uk), a UK travel eSIM provider (SIMPLYSIM SOLUTIONS LTD, Companies House 16302568). Claude can search destinations, compare plans, build a basket, apply a promo code and hand you a secure Stripe payment link. Your eSIM and installation instructions are emailed to you after payment.
+Find and buy prepaid travel data eSIMs for 190+ countries from [SimplySIM](https://simplysim.co.uk), a UK travel eSIM provider (SIMPLYSIM SOLUTIONS LTD, Companies House 16302568). Claude can search destinations, compare plans, build a basket, apply a promo code and hand you a secure Stripe payment link. Your eSIM and installation instructions are emailed to you after payment.
 
 ## What's included
 
