@@ -11,10 +11,5 @@
   "homepage": "https://simplysim.co.uk",
   "repository": "https://github.com/h2oracle/simplysim-plugin",
   "license": "MIT",
-  "keywords": ["esim", "travel", "mobile data", "roaming", "international data", "shopping"],
-  "icon": "./logo.png",
-  "documentationUrl": "https://simplysim.co.uk/support/how-it-works",
-  "supportUrl": "https://simplysim.co.uk/support/contact-us",
-  "privacyPolicyUrl": "https://simplysim.co.uk/support/privacy-policy",
-  "termsOfServiceUrl": "https://simplysim.co.uk/support/terms-and-conditions"
+  "keywords": ["esim", "travel", "mobile data", "roaming", "international data", "shopping"]
 }
